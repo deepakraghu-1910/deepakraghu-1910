@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deepak Raghuwanshi
 - 👀 I’m interested in Apps and web development
 - 🌱 I’m currently pursuing MCA(2022)
-- 📫 How to reach me drop mail on deepakraghu1910@gmail.com
 - 💫 Skilled in Java, MySQL, Web Development, Flutter and Dart.
+- 📫 How to reach me drop mail on deepakraghu1910@gmail.com
